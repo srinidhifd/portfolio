@@ -271,7 +271,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 882px) {
+@media screen and (max-width: 768px) {
   #home .row,
   #contact .row,
   #about .row {
